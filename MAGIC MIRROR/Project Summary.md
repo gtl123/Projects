@@ -43,7 +43,16 @@ I learned how enable and use mods in Magic  Mirror. I quickly added multiple mod
 Although it looks easy, making sure the pi didn't overheat or that the 
 2gb ram was not a limit to performance and that it could sustain 
 long periods of use proved to be a challenge which made the project stretch 
-form 1 week to 3 weeks
+from 1 week to 3 weeks. 
+
+To address the potential heating issues and low power usage requirements I first suggested adding a passive cooling
+such as heat sinks. Additionally, since the display would be on all the time the power usage was not optimal. 
+I added automated waking (on pi startup) and closing (after *t* ms delay). 
+> **Image of pi autostarting the mirror and proof of its reduced memory usage**
+>![IMAGE](assets/images/autostart.jpg)
+
+This brought the project to a end and by New Year the Magic Mirror project was completed successfully.
+
 ## USEFUL LINKS 
 - https://magicmirror.builders/
 - https://github.com/MagicMirrorOrg/MagicMirror/wiki/3rd-party-modules

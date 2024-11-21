@@ -5,5 +5,11 @@
     <mapping directory="$PROJECT_DIR$/MAGIC MIRROR/SOURCE CODE/ACTUAL FILES/INFO/MagicMirror" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MAGIC MIRROR/SOURCE CODE/ACTUAL FILES/INFO/MagicMirror/modules/MMM-Carousel" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MAGIC MIRROR/SOURCE CODE/ACTUAL FILES/INFO/MagicMirror/modules/MMM-Flights" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MAGIC MIRROR/SOURCE CODE/ACTUAL FILES/INFO/MagicMirror/modules/MMM-Globe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MAGIC MIRROR/SOURCE CODE/ACTUAL FILES/INFO/MagicMirror/modules/MMM-ISS-Live" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MAGIC MIRROR/SOURCE CODE/ACTUAL FILES/INFO/MagicMirror/modules/MMM-Planetarium" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MAGIC MIRROR/SOURCE CODE/ACTUAL FILES/INFO/MagicMirror/modules/MMM-PopulationClock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MAGIC MIRROR/SOURCE CODE/ACTUAL FILES/INFO/MagicMirror/modules/MMM-SolarPicture" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MAGIC MIRROR/SOURCE CODE/ACTUAL FILES/INFO/MagicMirror/modules/MMM-WifiPassword" vcs="Git" />
   </component>
 </project>
