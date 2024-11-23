@@ -52,7 +52,9 @@ I added automated waking (on pi startup) and closing (after *t* ms delay).
 >![IMAGE](assets/images/autostart.jpg)
 
 This brought the project to a end and by New Year the Magic Mirror project was completed successfully.
-
+> **Image of final product**
+>![IMAGE](assets/images/processed-ABB905E0-B53C-4F99-90C0-2FCEA73494C0.jpeg)
+Note: The Mirror had go through mulitple software updates. And due to me being unable to maintain the code most of the modifications had to be replaced in the end.
 ## USEFUL LINKS 
 - https://magicmirror.builders/
 - https://github.com/MagicMirrorOrg/MagicMirror/wiki/3rd-party-modules
